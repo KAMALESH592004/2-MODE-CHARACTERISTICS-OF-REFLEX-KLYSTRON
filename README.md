@@ -4,7 +4,7 @@
 
 To study mode characteristics of reflex klystron and hence to determine mode number,transit time electronic tuning range (ETR) and electronic tuning sensitivity (ETS)
 
-**Equipment and Component:**
+**Equipment and Component:*
 
 1.	Klystron power supply MTI KP 503
 2.	Klystron tube /2k25
